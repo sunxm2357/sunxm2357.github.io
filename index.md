@@ -31,7 +31,7 @@ During my Ph.D. study, I have been fortunate to collaborate with top research la
 Previously, I received my M.S. in ECE from University of Michigan, Ann Arbor and received B.ENG. in Communication Engineering from Beijing University of Posts and Telecommunications.
 <br/>
 <br/> </td>
-<td><img src="../assets/pics/ximeng.png" title="Ximeng Sun" alt="Ximeng Sun" height="2400" width="1800"/> </td>
+<td><img src="../assets/pics/ximeng.png" title="Ximeng Sun" alt="Ximeng Sun" height="3000" width="2250"/> </td>
 </tr>
 </table>
 
