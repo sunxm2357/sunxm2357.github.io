@@ -1,13 +1,13 @@
 ---
 layout: page
 title: Research
-description: xide's research
+description: ximeng's research
 ---
 
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
-            <li><a href="https://github.com/xidexia">github</a></li>
+            <li><a href="https://github.com/sunxm2357">github</a></li>
         </ul>
     </div>
 </div>
